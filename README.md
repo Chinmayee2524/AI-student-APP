@@ -3,9 +3,6 @@
 
 The project was made for Smart India Hackathon (2023)
 
-
-
-
 ## Problem Statement
 
 Making career choices and AI-based counseling accessible to every child at the secondary level along with aptitude tests and detailed career paths.
